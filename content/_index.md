@@ -10,6 +10,6 @@ In Proton Game, you can test your reaction and compete in a collect of points. C
 
 <div style="text-align: center;">
 
-[Install from App Store](https://apps.apple.com/ru/app/formula/id1561549761?l=en&mt=12)
+[Install from App Store](https://apps.apple.com/us/app/proton-game/id1561549761)
 
 </div>
